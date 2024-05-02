@@ -17,7 +17,21 @@ prospective transformation -> camera distorted view of the 3D world -> represent
 
 -> players speed 
 
+
+detect the ball -> problem 
+ignore the people 
+roboflow dataset -> train the model with the dataset -> find the players, ball, referee 
+
+the goalkeeper is detected as a player 
+
 ## Dataset 
 
 The dataset is taken from the Kaggle competition [DFL - Bundesliga Data Shootout](https://www.kaggle.com/competitions/dfl-bundesliga-data-shootout/overview), which is a short video of 30 minutes of football matches.
 
+## License 
+
+This project is under the MIT License, please check the [LICENSE](LICENSE) file for more information.
+
+## Contact
+
+If you have any questions, feel free to contact me at lenam1072004@gmail.com.

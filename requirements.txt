@@ -1,1 +1,4 @@
 ultralytics 
+python 
+opencv-python
+supervision
